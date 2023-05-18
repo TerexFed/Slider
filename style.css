@@ -32,7 +32,7 @@ p{
 .round{
     width: 30px;
     height: 30px;
-    border-radius: 30px;
+    border-radius: 7px;
     background-color: rgb(27, 96, 157);
     position: absolute;
 }
